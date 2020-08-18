@@ -1,3 +1,12 @@
+Twitter BotNet
+------------
+Is a system I have used for almost 7 years to get "likes and retweets" from a botnet, whose authorisation tokens are stored in a database called rss_twitter_users
+It can also be used to schedule tweets from random users in the botnet using a cronjob to make the botnet look active.
+Note: this script does not create users, you will need to create your own users.
+
+It uses the TwiterOAuth library whose README is below
+
+
 TwitterOAuth
 ------------
 
